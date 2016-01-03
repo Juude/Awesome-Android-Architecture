@@ -1,5 +1,6 @@
 #Android架构文章合集
 
+#大公司
 ### 携程
 + [携程Mobile架构演化(视频)](http://www.infoq.com/cn/presentations/ctrip-mobile-architecture-evolution)
 + [携程Android App插件化和动态加载实践](http://www.infoq.com/cn/articles/ctrip-android-dynamic-loading)
@@ -17,3 +18,8 @@
 + [涅盘新生—Android QQ音乐架构演进](http://www.infoq.com/cn/presentations/evolution-of-android-qq-music-architecture)
 + [微信Android客户端架构演进之路](http://www.infoq.com/cn/articles/wechat-android-app-architecture)
  
+#其它
++ [Design for Offline: Android App Architecture Best Practices](https://plus.google.com/+AndroidDevelopers/posts/3C4GPowmWLb)
++ [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
++ [Robust and readable architecture for an Android App](http://blog.joanzapata.com/robust-architecture-for-an-android-app/)
++ [http://www.codeproject.com/Articles/166952/MVVM-in-Android](http://www.codeproject.com/Articles/166952/MVVM-in-Android)
