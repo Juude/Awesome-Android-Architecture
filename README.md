@@ -23,4 +23,4 @@
 + [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 + [Robust and readable architecture for an Android App](http://blog.joanzapata.com/robust-architecture-for-an-android-app/)
 + [http://www.codeproject.com/Articles/166952/MVVM-in-Android](http://www.codeproject.com/Articles/166952/MVVM-in-Android)
-+ [Android application architecture](http://juude.net/android%E6%9E%B6%E6%9E%84%E6%96%87%E7%AB%A0%E5%90%88%E9%9B%86/)
++ [Android application architecture](https://events.google.com/io2015/schedule?sid=358c9f91-b6d4-e411-b87f-00155d5066d7#day1/358c9f91-b6d4-e411-b87f-00155d5066d7)
