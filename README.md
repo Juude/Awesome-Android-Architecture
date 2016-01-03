@@ -1,6 +1,5 @@
 #Android架构文章合集
 
-#大公司
 ### 携程
 + [携程Mobile架构演化(视频)](http://www.infoq.com/cn/presentations/ctrip-mobile-architecture-evolution)
 + [携程Android App插件化和动态加载实践](http://www.infoq.com/cn/articles/ctrip-android-dynamic-loading)
