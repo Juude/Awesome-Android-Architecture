@@ -9,6 +9,9 @@
 + [QCon旧金山演讲总结：阿里无线技术架构演进](http://www.infoq.com/cn/articles/alibaba-mobile-infrastructure)
 + [手机淘宝构架演化实践](http://www.infoq.com/cn/news/2014/12/taobao-app-evolution)
 + [手机淘宝Android客户端架构](http://www.open-open.com/lib/view/open1436316754208.html)
++ [漫谈移动应用架构设计](http://club.alibabatech.org/resource_detail.htm?topicId=124)
++ [大规模团队的Android开发](http://club.alibabatech.org/resource_detail.htm?topicId=130)
++ [支付宝钱包客户端技术架构](http://club.alibabatech.org/resource_detail.htm?topicId=155)
 
 ###百度
 + [手机百度Android平台平台化解决方案](http://www.infoq.com/cn/presentations/mobile-baidu-android-platform-solutions)
@@ -18,6 +21,7 @@
 + [微信Android客户端架构演进之路](http://www.infoq.com/cn/articles/wechat-android-app-architecture)
  
 #其它
++ [Android Application Architecture](https://medium.com/ribot-labs/android-application-architecture-8b6e34acda65#.b29vhtdm2)
 + [Design for Offline: Android App Architecture Best Practices](https://plus.google.com/+AndroidDevelopers/posts/3C4GPowmWLb)
 + [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 + [Robust and readable architecture for an Android App](http://blog.joanzapata.com/robust-architecture-for-an-android-app/)
