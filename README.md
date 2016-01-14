@@ -23,10 +23,13 @@
 ##饿了么
 + [饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90&scene=2&srcid=0106EtxRjD2jHxzomxVPTwY3&from=timeline&isappinstalled=0&uin=NzgwODIwNDgw&key=&devicetype=webwx&version=70000001&lang=zh_CN&pass_ticket=46hW44w3Hxd7VY9rutz7mgLu1JGe2T1AAKNQpxNoYOSGi8NpmNYr%2BAZj%2BiXtRX2F)
 
-#其它
+#Clean Architecture
 + [Android Application Architecture](https://medium.com/ribot-labs/android-application-architecture-8b6e34acda65#.b29vhtdm2)
++ [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
++ [Android-CleanArchitecture Code](https://github.com/android10/Android-CleanArchitecture)
+
+#其它
 + [Design for Offline: Android App Architecture Best Practices](https://plus.google.com/+AndroidDevelopers/posts/3C4GPowmWLb)
-+ [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 + [Robust and readable architecture for an Android App](http://blog.joanzapata.com/robust-architecture-for-an-android-app/)
 + [http://www.codeproject.com/Articles/166952/MVVM-in-Android](http://www.codeproject.com/Articles/166952/MVVM-in-Android)
 + [Android application architecture](https://events.google.com/io2015/schedule?sid=358c9f91-b6d4-e411-b87f-00155d5066d7#day1/358c9f91-b6d4-e411-b87f-00155d5066d7)
