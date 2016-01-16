@@ -33,6 +33,13 @@
 + [ANDROID DATABINDING: GOODBYE PRESENTER, HELLO VIEWMODEL](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
 + [http://www.codeproject.com/Articles/166952/MVVM-in-Android](http://www.codeproject.com/Articles/166952/MVVM-in-Android)
 
+#Flux
+* [flux and android](https://armueller.github.io/android/2015/03/29/flux-and-android.html)
+* [rxflux android architecture](https://medium.com/swlh/rxflux-android-architecture-94f77c857aa2#.sfjwchwok)
+* [why rxflux](https://medium.com/swlh/why-rxflux-5b687f062709#.ltlnlr4cl)
+* [android flux todo app](https://github.com/lgvalle/android-flux-todo-app)
+* [rxflux framework](https://github.com/skimarxall/RxFlux)
+
 #其它
 + [Design for Offline: Android App Architecture Best Practices](https://plus.google.com/+AndroidDevelopers/posts/3C4GPowmWLb)
 + [Robust and readable architecture for an Android App](http://blog.joanzapata.com/robust-architecture-for-an-android-app/)
