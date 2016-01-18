@@ -1,4 +1,4 @@
-#Android架构文章合集
+#Android架构合集
 
 ### 携程
 + [携程Mobile架构演化(视频)](http://www.infoq.com/cn/presentations/ctrip-mobile-architecture-evolution)
@@ -33,6 +33,8 @@
 + [ANDROID DATABINDING: GOODBYE PRESENTER, HELLO VIEWMODEL](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
 + [http://www.codeproject.com/Articles/166952/MVVM-in-Android](http://www.codeproject.com/Articles/166952/MVVM-in-Android)
 + [Android应用开发架构概述](http://www.liuguangli.win/archives/299)
+
+#[Artchitecture Library]()
 
 #其它
 + [Design for Offline: Android App Architecture Best Practices](https://plus.google.com/+AndroidDevelopers/posts/3C4GPowmWLb)
