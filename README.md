@@ -34,7 +34,7 @@
 + [http://www.codeproject.com/Articles/166952/MVVM-in-Android](http://www.codeproject.com/Articles/166952/MVVM-in-Android)
 + [Android应用开发架构概述](http://www.liuguangli.win/archives/299)
 
-#[Artchitecture Library](https://raw.githubusercontent.com/Juude/Awesome-Android-Architecture/master/Library.md)
+#[Artchitecture Library](https://github.com/Juude/Awesome-Android-Architecture/blob/master/Library.md)
 
 #其它
 + [Design for Offline: Android App Architecture Best Practices](https://plus.google.com/+AndroidDevelopers/posts/3C4GPowmWLb)
