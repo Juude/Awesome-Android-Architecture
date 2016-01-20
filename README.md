@@ -24,7 +24,7 @@
 + [饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90&scene=2&srcid=0106EtxRjD2jHxzomxVPTwY3&from=timeline&isappinstalled=0&uin=NzgwODIwNDgw&key=&devicetype=webwx&version=70000001&lang=zh_CN&pass_ticket=46hW44w3Hxd7VY9rutz7mgLu1JGe2T1AAKNQpxNoYOSGi8NpmNYr%2BAZj%2BiXtRX2F)
 
 #Clean Architecture
-+ [Android Application Architecture](https://medium.com/ribot-labs/android-application-architecture-8b6e34acda65#.b29vhtdm2)
++ [Android Application Architecture](https://medium.com/ribot-labs/android-application-architecture-8b6e34acda65#.b29vhtdm2) ([中文翻译](http://www.jianshu.com/p/8ca27934c6e6))
 + [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
 + [Android-CleanArchitecture Code](https://github.com/android10/Android-CleanArchitecture)
 
