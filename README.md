@@ -38,8 +38,13 @@
 * [flux and android](https://armueller.github.io/android/2015/03/29/flux-and-android.html)
 * [rxflux android architecture](https://medium.com/swlh/rxflux-android-architecture-94f77c857aa2#.sfjwchwok)
 * [why rxflux](https://medium.com/swlh/why-rxflux-5b687f062709#.ltlnlr4cl)
+
+####Sampls
 * [android flux todo app](https://github.com/lgvalle/android-flux-todo-app)([中文翻译](http://www.devtf.cn/?p=1028))
-* [rxflux framework](https://github.com/skimarxall/RxFlux)
+
+####Library
+* [RxFlux](https://github.com/skimarxall/RxFlux)
+* [android-flux](https://github.com/naodroid/android-flux): Flux library for android data binding
 
 #其它
 + [Artchitecture Library](https://github.com/Juude/Awesome-Android-Architecture/blob/master/Library.md)
