@@ -34,6 +34,9 @@
 + [http://www.codeproject.com/Articles/166952/MVVM-in-Android](http://www.codeproject.com/Articles/166952/MVVM-in-Android)
 + [Android应用开发架构概述](http://www.liuguangli.win/archives/299)
 
+#Flux Architecure
++ [Flux Architecture on Android](https://github.com/lgvalle/android-flux-todo-app)([中文翻译](http://www.devtf.cn/?p=1028))
+
 #[Artchitecture Library](https://github.com/Juude/Awesome-Android-Architecture/blob/master/Library.md)
 
 #其它
