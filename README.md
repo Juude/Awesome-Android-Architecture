@@ -33,6 +33,7 @@
 + [ANDROID DATABINDING: GOODBYE PRESENTER, HELLO VIEWMODEL](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
 + [http://www.codeproject.com/Articles/166952/MVVM-in-Android](http://www.codeproject.com/Articles/166952/MVVM-in-Android)
 + [Android应用开发架构概述](http://www.liuguangli.win/archives/299)
++ [Google官方架构](https://github.com/googlesamples/android-architecture)
 
 #Flux
 * [flux and android](https://armueller.github.io/android/2015/03/29/flux-and-android.html)
