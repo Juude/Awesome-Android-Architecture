@@ -1,9 +1,21 @@
 #Android架构合集
+
 + [Weibo](http://weibo.com/evoluter) - 欢迎关注，阿里、菜鸟、蚂蚁等招android开发，内推可私信。
+
+#### [著名公司架构](#著名公司架构)
+#### [常见架构方法](#常见架构方法)
+#### [架构库](https://github.com/Juude/Awesome-Android-Architecture/blob/master/Library.md)
+
+
+
+著名公司架构
+-------
 ### 安居客
 + [安居客Android项目架构演进](https://zhuanlan.zhihu.com/p/25420181)
+
 ### 滴滴
 + [滴滴国际化项目 Android 端演进](http://www.trinea.cn/android/didi-internationalization-android-evolution/)
+
 ### 携程
 + [携程Mobile架构演化(视频)](http://www.infoq.com/cn/presentations/ctrip-mobile-architecture-evolution)
 + [携程Android App插件化和动态加载实践](http://www.infoq.com/cn/articles/ctrip-android-dynamic-loading)
@@ -27,6 +39,8 @@
 ##饿了么
 + [饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90&scene=2&srcid=0106EtxRjD2jHxzomxVPTwY3&from=timeline&isappinstalled=0&uin=NzgwODIwNDgw&key=&devicetype=webwx&version=70000001&lang=zh_CN&pass_ticket=46hW44w3Hxd7VY9rutz7mgLu1JGe2T1AAKNQpxNoYOSGi8NpmNYr%2BAZj%2BiXtRX2F)
 
+常见架构方法
+------------
 #Clean Architecture
 + [Android Application Architecture](https://medium.com/ribot-labs/android-application-architecture-8b6e34acda65#.b29vhtdm2) ([中文翻译](http://www.jianshu.com/p/8ca27934c6e6))
 + [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
