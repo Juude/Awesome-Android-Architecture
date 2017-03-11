@@ -1,5 +1,9 @@
 #Android架构合集
-
++ [Weibo](http://weibo.com/evoluter) - 欢迎关注，阿里、菜鸟、蚂蚁等招android开发，内推可私信。
+### 安居客
++ [安居客Android项目架构演进](https://zhuanlan.zhihu.com/p/25420181)
+### 滴滴
++ [滴滴国际化项目 Android 端演进](http://www.trinea.cn/android/didi-internationalization-android-evolution/)
 ### 携程
 + [携程Mobile架构演化(视频)](http://www.infoq.com/cn/presentations/ctrip-mobile-architecture-evolution)
 + [携程Android App插件化和动态加载实践](http://www.infoq.com/cn/articles/ctrip-android-dynamic-loading)
