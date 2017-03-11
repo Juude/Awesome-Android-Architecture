@@ -51,19 +51,13 @@
 + [ANDROID DATABINDING: GOODBYE PRESENTER, HELLO VIEWMODEL](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
 + [http://www.codeproject.com/Articles/166952/MVVM-in-Android](http://www.codeproject.com/Articles/166952/MVVM-in-Android)
 + [Android应用开发架构概述](http://www.liuguangli.win/archives/299)
-+ [Google官方架构](https://github.com/googlesamples/android-architecture)
++ [Google官方架构Samples](https://github.com/googlesamples/android-architecture)
 
 #Flux
 * [flux and android](https://armueller.github.io/android/2015/03/29/flux-and-android.html)
 * [rxflux android architecture](https://medium.com/swlh/rxflux-android-architecture-94f77c857aa2#.sfjwchwok)
 * [why rxflux](https://medium.com/swlh/why-rxflux-5b687f062709#.ltlnlr4cl)
-
-####Sampls
 * [android flux todo app](https://github.com/lgvalle/android-flux-todo-app)([中文翻译](http://www.devtf.cn/?p=1028))
-
-####Library
-* [RxFlux](https://github.com/skimarxall/RxFlux)
-* [android-flux](https://github.com/naodroid/android-flux): Flux library for android data binding
 
 #其它
 + [Artchitecture Library](https://github.com/Juude/Awesome-Android-Architecture/blob/master/Library.md)
