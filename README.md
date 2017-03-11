@@ -2,9 +2,9 @@
 
 + [Weibo](http://weibo.com/evoluter) - 欢迎关注，阿里、菜鸟、蚂蚁等招android开发，内推可私信。
 
-#### [著名公司架构](#著名公司架构)
-#### [常见架构方法](#常见架构方法)
-#### [架构库](https://github.com/Juude/Awesome-Android-Architecture/blob/master/Library.md)
++ [著名公司架构](#著名公司架构)
++ [常见架构方法](#常见架构方法)
++ [架构库](https://github.com/Juude/Awesome-Android-Architecture/blob/master/Library.md)
 
 
 
