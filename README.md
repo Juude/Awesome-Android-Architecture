@@ -6,6 +6,7 @@
 + [常见架构方法](#常见架构方法)
 + [架构库](https://github.com/Juude/Awesome-Android-Architecture/blob/master/Library.md)
 
++ [Google官方架构demo](https://github.com/googlesamples/android-architecture)
 
 # 常见架构方法
 
